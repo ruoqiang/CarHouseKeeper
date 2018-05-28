@@ -1,1 +1,21 @@
-### :point_right: This starter repo has moved to the [ionic-team/starters](https://github.com/ionic-team/starters/tree/master/ionic-angular/official/tabs) repo! :point_left:
+#CarHouseKeeper
+
+> a ionic-app
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8100
+ionic serve
+
+# build for production with minification
+ionic serve
+
+# build for production and view the bundle analyzer report
+ionic cordova build
+```
+
+
