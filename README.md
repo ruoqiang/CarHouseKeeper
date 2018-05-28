@@ -1,21 +1,24 @@
 #CarHouseKeeper
 
-> a ionic-app
+> a ionic-app for car ETC traffic flow query
 
 ## Build Setup
 
 ``` bash
+#clone project then enter project
+cd project
+
 # install dependencies
 npm install
 
 # serve with hot reload at localhost:8100
 ionic serve
 
-# build for production with minification
-ionic serve
+# Build (prepare + compile) an Ionic project for a given platform
+ionic cordova build [<platform>]  //android / ios
 
-# build for production and view the bundle analyzer report
-ionic cordova build
+# Build (release) an Ionic project for a given platform
+ionic cordova build [<platform>] --prod --release
 ```
 
 
